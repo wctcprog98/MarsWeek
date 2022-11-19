@@ -3,7 +3,6 @@ public class MarsWeek {
         mealsRemaining();
         locationCheck();
 
-
     }
         public static void mealsRemaining() {
 //            String colonyName = "Roanoke";
