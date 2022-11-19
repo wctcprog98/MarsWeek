@@ -26,4 +26,5 @@ public class MarsWeek {
         else
             System.out.println("ERROR!!! Flight plan already set. Landing on the Plain.");
         }
+//        test
 }
