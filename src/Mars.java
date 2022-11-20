@@ -3,7 +3,8 @@ public class Mars extends GuessingGame{
         mealsRemaining();
         locationCheck(5);
         landingCheck(100);
-        new GuessingGame();
+//        new GuessingGame();
+        new MarsExpedition();
     }
 
     public static void mealsRemaining() {
