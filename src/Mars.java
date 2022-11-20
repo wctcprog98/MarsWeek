@@ -1,8 +1,9 @@
-public class Mars {
+public class Mars extends GuessingGame{
     public static void main(String[] args) throws InterruptedException {
         mealsRemaining();
         locationCheck(5);
         landingCheck(100);
+        new GuessingGame();
     }
 
     public static void mealsRemaining() {
