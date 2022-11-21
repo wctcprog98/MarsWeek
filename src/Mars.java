@@ -1,11 +1,12 @@
-public class Mars extends GuessingGame{
+public class Mars{
     public static void main(String[] args) throws InterruptedException {
-        mealsRemaining();
-        locationCheck(5);
-        landingCheck(100);
+//        mealsRemaining();
+//        locationCheck(5);
+//        landingCheck(100);
 //        new GuessingGame();
-        new MarsExpedition();
-    }
+//        new MarsExpedition();
+        new FindingsList();
+   }
 
     public static void mealsRemaining() {
         String colonyName = "Roanoke";
